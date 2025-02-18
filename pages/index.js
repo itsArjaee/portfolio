@@ -19,7 +19,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="h1"
+            className="md:h1 h2"
           >
             Bringing Ideas to Life
             <br /> Into <span className="text-accent"> Through Code</span>
@@ -29,7 +29,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
+            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 text-sm  md:text-lg"
           >
             I design and develop innovative, scalable, and user-centric
             solutions that bridge ideas with reality. With a strong focus on
