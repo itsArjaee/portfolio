@@ -19,7 +19,7 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="md:h1 h2"
+            className="md:h1 sm:h2 font-bold text-lg"
           >
             Bringing Ideas to Life
             <br /> Into <span className="text-accent"> Through Code</span>
