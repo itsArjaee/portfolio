@@ -7,7 +7,7 @@ import { FaViber } from "react-icons/fa";
 import { SiIndeed } from "react-icons/si";
 const Socials = () => {
   return (
-    <div className="flex items-center gap-x-5 text-lg font-extrabold ">
+    <div className="flex items-center gap-x-5 text-lg font-extrabold  ">
       <Link href={"/"} className="hover:text-accent transition-all duration-300">
         <RiFacebookLine />
       </Link>
